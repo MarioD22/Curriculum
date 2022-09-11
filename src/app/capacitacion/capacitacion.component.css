@@ -1,0 +1,82 @@
+/*.FondoCapacitacion{  
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: white;   
+    bottom: 610px;
+  
+  }
+.contenedor { 
+   
+    position:relative;
+    background-color: white;
+    margin-top: 30px;
+    left: 550px;
+    width: 30%;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+                
+}
+
+p{  color: rgb(184, 178, 178);
+   
+    text-align: center;
+    font-size: 18px;
+}
+
+h2 {
+    color: rgb(44, 40, 40);
+    text-align: center;
+     
+}
+
+
+.CapacitacionImagen{
+    position: relative;
+    width: 30%;
+    height: 30%;
+    bottom: 910px;
+    padding-left: 5px;
+    border-radius: 50px;
+}*/
+
+
+h2 {
+    color: rgb(44, 40, 40);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+     
+}
+
+h2:hover { position: relative;
+    background-color: black;
+    border-radius: 10px;
+    color: rgb(230, 221, 221);
+    font-size: 45px;
+    
+
+}
+
+
+.imagenCapacitacion{
+    position: relative;
+    width: 350px;
+    left:25%;
+    bottom: 10px;
+    border-radius: 15px;
+
+}
+
+p { 
+    
+    color: rgb(19, 17, 17);   
+    text-align: center;
+    font-size: 18px;
+}    
+
+
+.row{
+    width: 100%;
+}
